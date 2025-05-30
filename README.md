@@ -2,8 +2,12 @@
 An AI-powered voice assistant that lets you upload a PDF, ask questions by speaking, and receive both spoken and written answers. Built using NLP and speech technologies, this tool enhances document interaction through natural conversation
 
 ## Features:
--
+- Upload and analyze PDF documents
+- Ask questions through voice
+- Retrieve answers using intelligence
+- Bot recites answers
 
+  
 ## Libraries:
 -
 

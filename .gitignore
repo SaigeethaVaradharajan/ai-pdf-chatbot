@@ -1,0 +1,23 @@
+# API keys and secret config:
+.env
+
+# OS-specific:
+.DS_Store
+Thumbs.db
+
+# Python cache and virtual env:
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment folder:
+venv/
+env/
+
+# Streamlit temporary files:
+.streamlit/
+
+# Audio files:
+*.mp3
